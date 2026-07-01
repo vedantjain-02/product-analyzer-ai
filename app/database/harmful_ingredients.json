@@ -1,0 +1,26 @@
+{
+    "E102" : {
+        "risk": "High",
+        "description": "May cause hyperactivity in children"
+    },
+
+    "E110" : {
+        "risk": "High",
+        "description": "Potential allergic reactions"
+    },
+
+    "E211" : {
+        "risk": "Medium",
+        "description": "Preservative linked to health concerns"
+    },
+
+    "Palm Oil": {
+        "risk": "Medium",
+        "description": "High saturated fat content"
+    },
+    
+    "Trans Fat": {
+        "risk": "High",
+        "description": "Increases heart disease risk"
+    }
+}

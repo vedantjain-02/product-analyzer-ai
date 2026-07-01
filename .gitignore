@@ -1,0 +1,11 @@
+# Environment
+.env
+
+# Virtual Environment
+venv_product
+
+# Python
+__pycache__
+
+
+
